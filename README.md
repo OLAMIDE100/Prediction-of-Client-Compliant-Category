@@ -2,7 +2,7 @@
 
 
 ---
-![](bankkk_1571301223.jpg)
+![](Types-of-customer-complaints-5.jpg)
 ---
 
 This  data set has 312912 rows and 14 columns.
